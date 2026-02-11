@@ -2,7 +2,7 @@
 📌 Description du projet
 
 Dans ce projet, j’ai réalisé un tableau de bord interactif sous Power BI afin d’analyser les ventes d’une entreprise fictive.
-L’objectif était de suivre les performances commerciales et d’identifier les indicateurs clés.
+
 
 🛠️ Étapes réalisées
 
